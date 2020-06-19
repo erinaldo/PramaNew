@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FEAFIPLib</name>
+    </assembly>
+    <members>
+        <member name="T:FEAFIPLib.My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:FEAFIPLib.My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:FEAFIPLib.My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="M:FEAFIPLib.CertificadosX509Lib.FirmaBytesMensaje(System.Byte[],System.Security.Cryptography.X509Certificates.X509Certificate2)">
+            <summary>
+            Firma mensaje
+            </summary>
+            <param name="argBytesMsg">Bytes del mensaje</param>
+            <param name="argCertFirmante">Certificado usado para firmar</param>
+            <returns>Bytes del mensaje firmado</returns>
+            <remarks></remarks>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXAuthRequest">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXAuthRequest.Token">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXAuthRequest.Sign">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXAuthRequest.Cuit">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_CheckPermiso">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_CheckPermiso.Status">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_CheckPermiso">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_CheckPermiso.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_CheckPermiso.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_CheckPermiso.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXErr.ErrCode">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXErr.ErrMsg">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXEvents">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXEvents.EventCode">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXEvents.EventMsg">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_PtoVenta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_PtoVenta.Pve_Nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_PtoVenta.Pve_Bloqueado">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_PtoVenta.Pve_FchBaja">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_PtoVenta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_PtoVenta.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_PtoVenta.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_PtoVenta.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_LastID">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_LastID.Id">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_LastID">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_LastID.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_LastID.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_LastID.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Ctz">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Ctz.Mon_ctz">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Ctz.Mon_fecha">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Ctz">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Ctz.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Ctz.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Ctz.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.DummyResponse">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.DummyResponse.AppServer">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.DummyResponse.DbServer">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.DummyResponse.AuthServer">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEX_LastCMP_Response">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP_Response.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP_Response.Cbte_fecha">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponseLast_CMP">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseLast_CMP.FEXResult_LastCMP">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseLast_CMP.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseLast_CMP.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEX_LastCMP">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP.Token">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP.Sign">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP.Cuit">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP.Pto_venta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEX_LastCMP.Cbte_Tipo">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Mon">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Mon.Mon_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Mon.Mon_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Mon.Mon_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Mon.Mon_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Mon">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Mon.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Mon.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Mon.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_cuit">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_cuit.DST_CUIT">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_cuit.DST_Ds">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_DST_cuit">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_cuit.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_cuit.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_cuit.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_pais">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_pais.DST_Codigo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_DST_pais.DST_Ds">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_DST_pais">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_pais.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_pais.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_DST_pais.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_UMed">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_UMed.Umed_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_UMed.Umed_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_UMed.Umed_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_UMed.Umed_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Umed">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Umed.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Umed.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Umed.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Idi">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Idi.Idi_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Idi.Idi_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Idi.Idi_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Idi.Idi_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Idi">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Idi.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Idi.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Idi.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Inc">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Inc.Inc_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Inc.Inc_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Inc.Inc_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Inc.Inc_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Inc">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Inc.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Inc.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Inc.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Tex">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Tex.Tex_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Tex.Tex_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Tex.Tex_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Tex.Tex_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Tex">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Tex.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Tex.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Tex.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXResponse_Cbte_Tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Cbte_Tipo.Cbte_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Cbte_Tipo.Cbte_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Cbte_Tipo.Cbte_vig_desde">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXResponse_Cbte_Tipo.Cbte_vig_hasta">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponse_Cbte_Tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Cbte_Tipo.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Cbte_Tipo.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponse_Cbte_Tipo.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXGetCMPR">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Fecha_cbte">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cbte_tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Punto_vta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Tipo_expo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Permiso_existente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Permisos">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Dst_cmp">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cuit_pais_cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Domicilio_cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Id_impositivo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Moneda_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Moneda_ctz">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Obs_comerciales">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Imp_total">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Obs">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cmps_asoc">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Forma_pago">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Incoterms">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Incoterms_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Idioma_cbte">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Items">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Fecha_cbte_cae">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Fch_venc_Cae">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Cae">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Resultado">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMPR.Motivos_Obs">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.Permiso">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Permiso.Id_permiso">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Permiso.Dst_merc">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.Cmp_asoc">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Cmp_asoc.Cbte_tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Cmp_asoc.Cbte_punto_vta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Cmp_asoc.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Cmp_asoc.Cbte_cuit">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.Item">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_codigo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_qty">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_umed">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_precio_uni">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_bonificacion">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.Item.Pro_total_item">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXGetCMPResponse">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXGetCMPResponse.FEXResultGet">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXGetCMPResponse.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXGetCMPResponse.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXGetCMP">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMP.Cbte_tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMP.Punto_vta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXGetCMP.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Cuit">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Cbte_tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Punto_vta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Cae">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Fch_venc_Cae">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Fch_cbte">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Resultado">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Reproceso">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXOutAuthorize.Motivos_Obs">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.FEXResponseAuthorize">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseAuthorize.FEXResultAuth">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseAuthorize.FEXErr">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.FEXResponseAuthorize.FEXEvents">
+            <remarks/>
+        </member>
+        <member name="T:FEAFIPLib.wsfexv1.ClsFEXRequest">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Fecha_cbte">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Cbte_Tipo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Punto_vta">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Cbte_nro">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Tipo_expo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Permiso_existente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Permisos">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Dst_cmp">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Cuit_pais_cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Domicilio_cliente">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Id_impositivo">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Moneda_Id">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Moneda_ctz">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Obs_comerciales">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Imp_total">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Obs">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Cmps_asoc">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Forma_pago">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Incoterms">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Incoterms_Ds">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Idioma_cbte">
+            <remarks/>
+        </member>
+        <member name="P:FEAFIPLib.wsfexv1.ClsFEXRequest.Items">
+            <remarks/>
+        </member>
+    </members>
+</doc>

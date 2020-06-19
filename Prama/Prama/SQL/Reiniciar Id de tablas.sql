@@ -1,0 +1,1 @@
+DBCC CHECKIDENT (Articulos, RESEED, 381)

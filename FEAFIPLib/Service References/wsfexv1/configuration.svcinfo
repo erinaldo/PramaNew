@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ServiceSoap11&quot;&gt;&lt;security mode=&quot;Transport&quot; /&gt;&lt;/Data&gt;" bindingType="basicHttpBinding" name="ServiceSoap11" />
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ServiceSoap13&quot; /&gt;" bindingType="basicHttpBinding" name="ServiceSoap13" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://wswhomo.afip.gov.ar/wsfexv1/service.asmx&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ServiceSoap11&quot; contract=&quot;wsfexv1.ServiceSoap&quot; name=&quot;ServiceSoap8&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://wswhomo.afip.gov.ar/wsfexv1/service.asmx&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ServiceSoap11&quot; contract=&quot;wsfexv1.ServiceSoap&quot; name=&quot;ServiceSoap8&quot; /&gt;" contractName="wsfexv1.ServiceSoap" name="ServiceSoap8" />
+  </endpoints>
+</configurationSnapshot>

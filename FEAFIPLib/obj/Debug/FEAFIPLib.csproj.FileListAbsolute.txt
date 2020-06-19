@@ -1,0 +1,220 @@
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\bin\Debug\FEAFIPLib.dll
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\bin\Debug\FEAFIPLib.pdb
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\bin\Debug\FEAFIPLib.xml
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.dll
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.pdb
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\obj\Debug\FEAFIPLib.csprojResolveAssemblyReference.cache
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\obj\Debug\FEAFIPLib.csprojResolveAssemblyReference.cache
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+E:\NACHO\PRAMA_ULTIMATE\FEAFIP_CSHARP_2010\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+E:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\GenerateResource.read.1.tlog
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\GenerateResource.write.1.tlog
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+F:\Gabriel\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Franco\Downloads\PRAMA_ULTIMATE\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+G:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+G:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+G:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+G:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+G:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+G:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+G:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+G:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Franco\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+D:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+D:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+D:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+D:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+D:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+D:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+D:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+D:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Ulp\Desktop\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+F:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+F:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+F:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+F:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+F:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+F:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+F:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+F:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+D:\NACHO\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\G\Documents\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\G\Documents\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\G\Documents\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\G\Documents\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\G\Documents\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\G\Documents\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\G\Documents\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\G\Documents\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+G:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+G:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+G:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+G:\Prama\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+G:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+G:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+G:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+G:\Prama\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+F:\Gabriel\Desarrollos\Prama - Complementarios\Descarga de versiones\Prama - 2017-12-12\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Franco\Desktop\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+D:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+D:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+D:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+D:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+D:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+D:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+D:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+D:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+H:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+H:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+H:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+H:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+H:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+H:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+H:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+H:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\G\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+E:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+G:\Desarrollos\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Gabriel\Documents\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+F:\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+F:\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+F:\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+F:\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+F:\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+F:\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+F:\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+F:\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+G:\IT SOLUCIONES\PRAMA_ESPACIO\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+F:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+F:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+F:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+F:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+F:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+F:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+F:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+F:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+E:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+E:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+E:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+E:\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+E:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+E:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+E:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+E:\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll.config
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.dll
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.pdb
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\bin\Debug\FEAFIPLib.xml
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.dll
+C:\Users\Gabriel\Documents\Desarrollos 2019\PRAMA_ULTIMATE\FEAFIPLib\obj\Debug\FEAFIPLib.pdb

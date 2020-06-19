@@ -1,0 +1,8 @@
+Vista_ComprobantesCompras
+Vista_ComprobantesCompras2
+TipoComprobantesCompras
+Vista_OrdenesPago
+OrdenesPago
+TipoComprobantesCompras Reiniciar
+Reiniciar Saldos Proveedores
+

@@ -1,0 +1,1 @@
+DBCC CHECKIDENT (Clientes, RESEED, 0)

@@ -1,0 +1,1 @@
+﻿Data Source=G-PC\SQLEXPRESS;Initial Catalog=IconoBD; User = PC0; Password = 123; Connection Timeout=45;

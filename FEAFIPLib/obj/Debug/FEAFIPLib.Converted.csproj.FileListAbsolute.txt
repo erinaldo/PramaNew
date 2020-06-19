@@ -1,0 +1,3 @@
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.Converted.csprojResolveAssemblyReference.cache
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.My_Project.Resources.resources
+C:\Users\Abel\Documents\Projects\FEAFIPLib_CSHARP\FEAFIPLib\FEAFIPLib.ConvertedToC#\obj\Debug\FEAFIPLib.Converted.csproj.GenerateResource.Cache
