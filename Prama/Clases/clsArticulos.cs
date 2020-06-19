@@ -11,7 +11,7 @@ namespace Prama
         #region Descripción de la clase y su funcionalidad
 
         // Clase  que almacena en memoria datos de Articulos. N.
-
+        // Test
         #endregion
 
         #region Propiedades de la clase
