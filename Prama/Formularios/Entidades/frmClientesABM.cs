@@ -1805,10 +1805,11 @@ namespace Prama
             {
                 this.txtProvincia.Text = row["Provincia"].ToString();
                 this.txtLocalidad.Text = row["Localidad"].ToString();
+                this.txtCP.Text = row["CP"].ToString();
             }
          
-         //Establecer localidad y CP
-            txtCP.Text = clsGlobales.CP;
+         ////Establecer localidad y CP
+         //   txtCP.Text = clsGlobales.CP;
 
         }
 
