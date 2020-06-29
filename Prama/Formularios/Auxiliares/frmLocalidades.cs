@@ -683,13 +683,19 @@ namespace Prama
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            //Para manipular datos grilla
-            DataGridViewRow row = dgvLocalidades.CurrentRow;             
+            DialogResult dlResult = MessageBox.Show("Esta seguro de querer utilizar la Localidad: " + dgvLocalidades.CurrentRow.Cells["Localidad"].Value.ToString() + ", Provincia: " + dgvLocalidades.CurrentRow.Cells["Provincia"].Value.ToString() + ", CP: " + dgvLocalidades.CurrentRow.Cells["CP"].Value.ToString() + " ?", "Confirmar!!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            // Si confirma salir de la aplicación....
+            if (dlResult == DialogResult.Yes)
+            {
 
-            //Tomo datos de la grilla
-            clsGlobales.IdProv = Convert.ToInt32(row.Cells["IdProvincia"].Value.ToString());
-            clsGlobales.IdLoc = Convert.ToInt32(row.Cells["IdLocalidad"].Value.ToString());
-            clsGlobales.CP = row.Cells["CP"].Value.ToString();
+                //Para manipular datos grilla
+                DataGridViewRow row = dgvLocalidades.CurrentRow;
+
+                //Tomo datos de la grilla
+                clsGlobales.IdProv = Convert.ToInt32(row.Cells["IdProvincia"].Value.ToString());
+                clsGlobales.IdLoc = Convert.ToInt32(row.Cells["IdLocalidad"].Value.ToString());
+                clsGlobales.CP = row.Cells["CP"].Value.ToString();
+            }
 
             // Cierro el formulario. G.
             this.Close();
