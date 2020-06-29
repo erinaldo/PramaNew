@@ -1919,6 +1919,7 @@ namespace Prama
                     //Panel
                     this.btnPanel.Enabled = false;
                     this.dgvClientes.Enabled = false;
+                    this.grpBoxCli.Visible = false;
                     this.grpExportacion.Visible = true;
                     this.pBar.Value = 0;
                     this.lblPorciento.Text = "% 0";
@@ -1938,6 +1939,7 @@ namespace Prama
                     this.dgvClientes.Enabled = true;
                     this.pBar.Value = 0;
                     this.lblPorciento.Text = "% 0";
+                    this.grpBoxCli.Visible = true;
                     this.grpExportacion.Visible = false;
                     clsGlobales.bInterrupt = false;
                 }
