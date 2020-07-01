@@ -19,12 +19,14 @@ namespace Prama
         int indexFila = 0;
         bool bSearch=false;
         int IdLoc = 0;
+        int x_Val = 0;
 
         #endregion
 
-        public frmLocalidades()
+        public frmLocalidades(int p_Val = 0)
         {
             InitializeComponent();
+            x_Val = p_Val;
         }
 
         #region Métodos del Formulario
@@ -683,18 +685,22 @@ namespace Prama
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            DialogResult dlResult = MessageBox.Show("Esta seguro de querer utilizar la Localidad: " + dgvLocalidades.CurrentRow.Cells["Localidad"].Value.ToString() + ", Provincia: " + dgvLocalidades.CurrentRow.Cells["Provincia"].Value.ToString() + ", CP: " + dgvLocalidades.CurrentRow.Cells["CP"].Value.ToString() + " ?", "Confirmar!!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            // Si confirma salir de la aplicación....
-            if (dlResult == DialogResult.Yes)
+            //Si viene con valor 1 en el constructor, preguntar sino cerrar.
+            if (x_Val == 1)
             {
+                DialogResult dlResult = MessageBox.Show("Esta seguro de querer utilizar la Localidad: " + dgvLocalidades.CurrentRow.Cells["Localidad"].Value.ToString() + ", Provincia: " + dgvLocalidades.CurrentRow.Cells["Provincia"].Value.ToString() + ", CP: " + dgvLocalidades.CurrentRow.Cells["CP"].Value.ToString() + " ?", "Confirmar!!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                // Si confirma salir de la aplicación....
+                if (dlResult == DialogResult.Yes)
+                {
 
-                //Para manipular datos grilla
-                DataGridViewRow row = dgvLocalidades.CurrentRow;
+                    //Para manipular datos grilla
+                    DataGridViewRow row = dgvLocalidades.CurrentRow;
 
-                //Tomo datos de la grilla
-                clsGlobales.IdProv = Convert.ToInt32(row.Cells["IdProvincia"].Value.ToString());
-                clsGlobales.IdLoc = Convert.ToInt32(row.Cells["IdLocalidad"].Value.ToString());
-                clsGlobales.CP = row.Cells["CP"].Value.ToString();
+                    //Tomo datos de la grilla
+                    clsGlobales.IdProv = Convert.ToInt32(row.Cells["IdProvincia"].Value.ToString());
+                    clsGlobales.IdLoc = Convert.ToInt32(row.Cells["IdLocalidad"].Value.ToString());
+                    clsGlobales.CP = row.Cells["CP"].Value.ToString();
+                }
             }
 
             // Cierro el formulario. G.
