@@ -1794,7 +1794,7 @@ namespace Prama
 
         private void btnLoc_Click(object sender, EventArgs e)
         {
-            frmLocalidades myLocalidad = new frmLocalidades();
+            frmLocalidades myLocalidad = new frmLocalidades(1);
             myLocalidad.ShowDialog();
 
             string mySQL = "exec RetornarProvLoc " + clsGlobales.IdProv + "," + clsGlobales.IdLoc;
