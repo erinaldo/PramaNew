@@ -1339,6 +1339,7 @@
             this.nOrden.DataPropertyName = "Orden";
             this.nOrden.HeaderText = "nOrden";
             this.nOrden.Name = "nOrden";
+            this.nOrden.Visible = false;
             // 
             // Codigo_Correo
             // 
