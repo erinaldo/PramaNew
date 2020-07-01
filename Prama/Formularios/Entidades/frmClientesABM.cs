@@ -134,9 +134,9 @@ namespace Prama
         private void btnSalir_Click(object sender, EventArgs e)
         {
             //Limpiar Variables globales 
-            clsGlobales.IdProv = 0;
-            clsGlobales.IdLoc = 0;
-            clsGlobales.CP = "";
+                clsGlobales.IdProv = 0;
+                clsGlobales.IdLoc = 0;
+                clsGlobales.CP = "";
 
             // Cierro el formulario
             this.Close();
